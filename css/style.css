@@ -648,3 +648,36 @@ section{
 }
 /* ****************** Pricing End *********************** */
 
+/* ****************** Analytics Start *********************** */
+#analytics{
+    width: 100%;
+}
+.analytic__main{
+    background: url(../images/Rectangle\ 92.png) no-repeat center / cover scroll;
+    border-radius: 70px;
+    padding: 122px 367px;
+}
+.analytic__heading{
+    color: var(--white);    
+    font-family: var(--ff_two);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 140%;
+    text-transform: capitalize;
+    text-align: center;
+}
+.analytic__details{
+    color: var(--white);
+    font-family: var(--ff_one);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 200%;
+    text-align: center;
+    text-transform: capitalize;
+    opacity: 0.6;
+    padding: 10px 15px 28px 15px;
+}
+/* ****************** Analytics End *********************** */
+
